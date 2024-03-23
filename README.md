@@ -4,3 +4,4 @@ Mit der Zeile ... wird automatisch der nächste Punkt auf einem Kreis berechnet 
 
 
 ## Achtung! 
+Während das Programm läuft, kann man selber nicht mehr die Maus bewegen. 
