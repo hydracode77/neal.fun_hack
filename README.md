@@ -15,5 +15,4 @@ Dementsprechend wartet man ein paar Sekunden, dann ist die Maus auch wieder frei
 Auch kann die Geschwindigkeit, in der der Kreis gezeichnet wird je nach Rechenleistung variieren, auch bis dahin, dass der Kreis für die Webiste zu langsam gezeichnet wird. 
 In diesem Fall sollte man die Schritte in der for-Schleife (hier: 6) erhöhen.
 
-## 99,9%:
 <img src="https://i.ibb.co/rM220vy/perfect-circle.png" alt="99,9% perfect circle" width="384" height="216">
