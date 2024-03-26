@@ -16,4 +16,5 @@ Auch kann die Geschwindigkeit, in der der Kreis gezeichnet wird je nach Rechenle
 In diesem Fall sollte man die Schritte in der for-Schleife (hier: 6) erhöhen.
 
 ***
+
 <img src="https://i.ibb.co/rM220vy/perfect-circle.png" alt="99,9% perfect circle" width="384" height="216">
