@@ -14,7 +14,7 @@ Dann bewegt sich die Maus erst zur Startposition, und fährt dann alle berechnet
 ## Achtung! 
 Während das Programm läuft, kann man selber nicht mehr die Maus bewegen.
 Dementsprechend wartet man ein paar Sekunden, dann ist die Maus auch wieder frei bewegbar.
-Auch kann die Geschwindigkeit, in der der Kreis gezeichnet wird je nach Rechenleistung variieren, auch bis dahin, dass der Kreis für die Webiste zu langsam gezeichnet wird. 
+Auch kann die Geschwindigkeit, in der der Kreis gezeichnet wird je nach Rechenleistung variieren, auch bis dahin, dass der Kreis für die Website zu langsam gezeichnet wird. 
 In diesem Fall sollte man die Schritte in der for-Schleife (hier: 6) erhöhen.
 
 
